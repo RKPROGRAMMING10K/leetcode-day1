@@ -1,4 +1,4 @@
-<!--
+
 <style>
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(30px) scale(0.9); }
@@ -38,7 +38,6 @@
 .title-emoji { animation: bounce 2s infinite; }
 .welcome-text { animation: fadeIn 3s ease-out 1s both; }
 </style>
--->
 
 <div align="center">
   <h1 class="fade-in">
